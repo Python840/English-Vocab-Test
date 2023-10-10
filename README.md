@@ -24,7 +24,7 @@ The (Any language) to English Vocabulary Test is an interactive self-test applic
 - Score tracking to measure your progress.
 ## Dependencies
 
-- Python 3.x
+- Python 3 (Works on older versions too)
 - Tkinter (usually comes pre-installed with Python)
 
 ## Contributing
